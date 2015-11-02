@@ -1,0 +1,8 @@
+History.txt
+Manifest.txt
+README.md
+Rakefile
+lib/newrelic-zookeeper.rb
+lib/newrelic_zookeeper/instrumentation.rb
+lib/newrelic_zookeeper/version.rb
+newrelic-zookeeper.gemspec
